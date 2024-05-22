@@ -8,13 +8,9 @@
 
  ## Education and Accomplishments.  
 * For my Educational primary, junior, and senior Secondary in Zambia. After graduating High School, I decided to study Computer Science away from home.  For my varsity degree, I decided to pursue it in Botswana at the **Botswana International University of Science and Technology (_BIUST_)** and I was studying **Computer Science and Software Engineering**.  
-My accomplishments would be that I have the ability to adapt and learn new things. I am also proud to say I withstood the hurdles that come with studying in BIUST for 4 years, And I am also proud that I got to study in BIUST as it has taught me important lessons. 
+My accomplishments would be that I have the ability to adapt and learn new things. I am also proud to say I withstood the hurdles that come with studying in BIUST for 4 years, And I am also proud that I got to study in BIUST as it has taught me many important lessons that have allowed me to grow as a person and as an aspiring developer. 
 
 * During my studies in **BIUST** I acquired some basic software development knowledge. Tools and technologies needed to accomplish some software development.
-
-
-## Ambitions for the Future
-* My future goals are to become my best version. I also aim to finish the Engineering Residency Program with [Africa Code Academy](https://africacode.org)  without a hitch. 
 
 
 
